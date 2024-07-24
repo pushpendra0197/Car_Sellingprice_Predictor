@@ -9,6 +9,6 @@ Steps taken for this project-
 •	Decided feature for training and testing after Data preprocessing.
 •	Checked with different kind of algorithm according to target.
 •	Evaluated all algorithm and selected best one on the basis of r2_score.
-•	Presented all mode in the form of GUI. 
+•	Presented model in the form of GUI. 
 
 
