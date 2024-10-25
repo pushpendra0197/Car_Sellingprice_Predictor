@@ -17,6 +17,8 @@ modelbit.get_inference(
   deployment="Car_SellingPrice_Predictor",
   data=[PricePresent, RunningKM, CarAge, DrivenFuel, TypeSeller, TypeTransmission]
 )
+
+
 Enter the value according -- # "PricePresent":100000 written as 1.0,"Petrol":0,"Diesel":1,"CNG":2",Dealer":0,"Individual":1,"Manual":0,"Automatic":1"
 Model will give you the Selling price of the car according to value you given.
 
