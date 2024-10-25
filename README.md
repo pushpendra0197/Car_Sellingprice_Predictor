@@ -1,6 +1,6 @@
 I have made Car Price Prediction model after checking with all Regression is a supervised machine learning algorithm and chose best r2_score given algorithm.and deployed over 
-Modelbit deployment platform.
-Model is accessible from anywhere.
+
+Modelbit deployment platform.Model is accessible from anywhere.
 Kindly install modelbit in your IDE(jupyter,colab) by using (pip install modelbit) import modelbit module.
 
 
