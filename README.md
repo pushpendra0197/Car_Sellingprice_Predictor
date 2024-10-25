@@ -5,8 +5,12 @@ Kindly install modelbit in your IDE(jupyter,colab) by using (pip install modelbi
 
 
 Command for Curl-
+
+
 Curl -s -XPOST "https://pushpendradhamanya.us-east-2.aws.modelbit.com/v1/Car_SellingPrice_Predictor/latest" -d '{"data": [PricePresent, RunningKM, CarAge, DrivenFuel, TypeSeller, TypeTransmission]}' | json_pp
+
 Python-
+
 modelbit.get_inference(
   region="us-east-2.aws",
   workspace="pushpendradhamanya",
